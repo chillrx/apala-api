@@ -1,4 +1,4 @@
-# apala-api
+# Apala-api
 
 This project is a web app for administering.
 
