@@ -1,6 +1,6 @@
 # apala-api
 
-This project is a mobile app created with the purpose of informing people about health caring.
+This project is a web app for administering.
 
 ## Usage
 
