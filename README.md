@@ -1,22 +1,22 @@
 # apala-api
 
+This project is a mobile app created with the purpose of informing people about health caring.
 
-instalar o node 8.9.4
-instalar o mysql 5.7 (https://dev.mysql.com/downloads/windows/installer/5.7.html) (instalação padrão) coloca a senha "root" sem aspas no momento da instalação, de preferencia.
+## Usage
 
-criar um schema "database_development" usando o mysql workbench
+Install node 8.9.4;
 
-abre um terminal na raíz do projeto e roda os comandos:
+Install mysql 5.7;
 
-  npm install 
+Create database named "database_development";
 
-para instalar as dependencias do node.
+run commands:
 
- npm start
+   npm install 
 
-para rodar a api.
-
-a api estará rodando na porta 8000
+   npm start
+ 
+## Docs
 
 APIARY: https://apalaapi.docs.apiary.io
 
