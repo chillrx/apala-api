@@ -1,6 +1,6 @@
 # Apala-api
 
-This project is a web app for administering.
+This project is a web app to administrate campaigns.
 
 ## Usage
 
